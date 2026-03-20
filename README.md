@@ -13,3 +13,15 @@ gh extensions install github/gh-aw
 # Add the workflow to your repository
 gh aw add-wizard githubnext/agentics/ci-doctor
 ```
+
+### [CI Coach](https://github.com/githubnext/agentics/blob/main/docs/ci-coach.md)
+
+```sh
+
+# Install the 'gh aw' extension
+gh extension install github/gh-aw
+
+# Add the workflow to your repository
+gh aw add-wizard githubnext/agentics/ci-coach
+
+```
