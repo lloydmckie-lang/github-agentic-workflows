@@ -60,6 +60,11 @@ gh aw add-wizard githubnext/agentics/ai-moderator
 gh aw add-wizard githubnext/agentics/issue-triage
 
 ```
+## [Dependabot PR Bundler](https://github.com/githubnext/agentics/blob/main/docs/dependabot-pr-bundler.md)
+
+```sh
+# Add the workflow to your repository
+gh aw add-wizard githubnext/agentics/dependabot-pr-bundler
 
 ## [Weekly issue sumary](https://github.com/githubnext/agentics/blob/main/docs/weekly-issue-summary.md)
 
