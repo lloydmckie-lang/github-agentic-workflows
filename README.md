@@ -60,3 +60,14 @@ gh aw add-wizard githubnext/agentics/ai-moderator
 gh aw add-wizard githubnext/agentics/issue-triage
 
 ```
+
+## [Weekly issue sumary](https://github.com/githubnext/agentics/blob/main/docs/weekly-issue-summary.md)
+
+```sh
+
+# Add the workflow to your repository
+gh aw add-wizard githubnext/agentics/weekly-issue-summary
+
+# Run manually 
+gh aw run weekly-issue-summary --repo lloydmckie-lang/github-agentic-workflows --engine copilot
+```
