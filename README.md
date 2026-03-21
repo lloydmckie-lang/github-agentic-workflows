@@ -124,6 +124,11 @@ gh aw add-wizard githubnext/agentics/ai-moderator
 gh aw add-wizard githubnext/agentics/issue-triage
 
 ```
+## [Dependabot PR Bundler](https://github.com/githubnext/agentics/blob/main/docs/dependabot-pr-bundler.md)
+
+```sh
+# Add the workflow to your repository
+gh aw add-wizard githubnext/agentics/dependabot-pr-bundler
 
 ## [Weekly issue sumary](https://github.com/githubnext/agentics/blob/main/docs/weekly-issue-summary.md)
 
@@ -134,4 +139,22 @@ gh aw add-wizard githubnext/agentics/weekly-issue-summary
 
 # Run manually 
 gh aw run weekly-issue-summary --repo lloydmckie-lang/github-agentic-workflows --engine copilot
+```
+
+## [Repo Ask](https://github.com/githubnext/agentics/blob/main/docs/repo-ask.md)
+
+
+```sh
+
+# Add the workflow to your repository
+gh aw add-wizard githubnext/agentics/repo-ask
+
+# Example comment: /repo-ask How does the authentication system work in this project?
+```
+
+### [Pr fix](https://github.com/githubnext/agentics/blob/main/docs/pr-fix.md)
+```sh
+# Add the workflow to your repository
+gh aw add-wizard githubnext/agentics/pr-fix
+
 ```
