@@ -37,3 +37,14 @@ gh aw add-wizard githubnext/agentics/grumpy-reviewer
 
 ```
 
+
+### [PR Nitpicker](https://github.com/githubnext/agentics/blob/main/docs/pr-nitpick-reviewer.md)
+
+```sh
+# Install the 'gh aw' extension
+gh extension install github/gh-aw
+
+# Add the workflow to your repository
+gh aw add-wizard githubnext/agentics/pr-nitpick-reviewer
+
+```
