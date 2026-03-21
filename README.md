@@ -2,13 +2,15 @@
 
 ## github next agentics
 
+```sh
+
+# install the extension
+gh extensions install github/gh-aw
+
+```
 
 ### [CI Doctor](https://github.com/githubnext/agentics/blob/main/docs/ci-doctor.md)
 ```sh
-
-# install
-
-gh extensions install github/gh-aw
 
 # Add the workflow to your repository
 gh aw add-wizard githubnext/agentics/ci-doctor
@@ -18,9 +20,6 @@ gh aw add-wizard githubnext/agentics/ci-doctor
 
 ```sh
 
-# Install the 'gh aw' extension
-gh extension install github/gh-aw
-
 # Add the workflow to your repository
 gh aw add-wizard githubnext/agentics/ci-coach
 
@@ -29,9 +28,6 @@ gh aw add-wizard githubnext/agentics/ci-coach
 ### [Grumpy Reviewer](https://github.com/githubnext/agentics/blob/main/docs/grumpy-reviewer.md)
 
 ```sh
-# Install the 'gh aw' extension
-gh extension install github/gh-aw
-
 # Add the workflow to your repository
 gh aw add-wizard githubnext/agentics/grumpy-reviewer
 
@@ -41,10 +37,26 @@ gh aw add-wizard githubnext/agentics/grumpy-reviewer
 ### [PR Nitpicker](https://github.com/githubnext/agentics/blob/main/docs/pr-nitpick-reviewer.md)
 
 ```sh
-# Install the 'gh aw' extension
-gh extension install github/gh-aw
-
 # Add the workflow to your repository
 gh aw add-wizard githubnext/agentics/pr-nitpick-reviewer
+
+```
+
+## [AI Moderator](https://github.com/githubnext/agentics/blob/main/docs/ai-moderator.md)
+
+```sh
+
+# Add the workflow to your repository
+gh aw add-wizard githubnext/agentics/ai-moderator
+
+```
+
+
+## [Issue Triage](https://github.com/githubnext/agentics/blob/main/docs/issue-triage.md)
+
+```sh
+
+# Add the workflow to your repository
+gh aw add-wizard githubnext/agentics/issue-triage
 
 ```
