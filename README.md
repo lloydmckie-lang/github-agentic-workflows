@@ -25,3 +25,15 @@ gh extension install github/gh-aw
 gh aw add-wizard githubnext/agentics/ci-coach
 
 ```
+
+### [Grumpy Reviewer](https://github.com/githubnext/agentics/blob/main/docs/grumpy-reviewer.md)
+
+```sh
+# Install the 'gh aw' extension
+gh extension install github/gh-aw
+
+# Add the workflow to your repository
+gh aw add-wizard githubnext/agentics/grumpy-reviewer
+
+```
+
