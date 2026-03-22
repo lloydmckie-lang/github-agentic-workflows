@@ -34,7 +34,7 @@ source: githubnext/agentics/workflows/daily-repo-status.md@06bf149d12d83f09e2a52
 engine: copilot
 ---
 
-# Daily Repo Status
+# Daily Repo Status (Set to yearly)
 
 Create an upbeat daily status report for the repo as a GitHub issue.
 

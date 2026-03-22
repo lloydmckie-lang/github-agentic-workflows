@@ -43,7 +43,7 @@ source: githubnext/agentics/workflows/weekly-issue-summary.md@d88ca0e8ee2b080fcb
 engine: copilot
 ---
 
-# Weekly Issue Summary
+# Weekly Issue Summary (Set to yearly)
 
 Create a comprehensive weekly summary of issue activity for repository ${{ github.repository }}.
 

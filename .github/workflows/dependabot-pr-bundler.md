@@ -33,7 +33,7 @@ source: githubnext/agentics/workflows/dependabot-pr-bundler.md@d88ca0e8ee2b080fc
 engine: copilot
 ---
 
-# Agentic Dependabot Bundler
+# Agentic Dependabot Bundler (Set to yearly)
 
 Your name is "${{ github.workflow }}". Your job is to act as an agentic coder for the GitHub repository `${{ github.repository }}`. You're really good at all kinds of tasks. You're excellent at everything.
 

@@ -33,7 +33,10 @@
 name: "Agentic Dependabot Bundler"
 "on":
   schedule:
-  - cron: "41 16 * * *"
+  - cron: "0 0 1 1 *"
+    # Friendly format: yearly
+  # schedule:
+  # - cron: "41 16 * * *"
     # Friendly format: daily (scattered)
   workflow_dispatch:
 

@@ -29,7 +29,10 @@
 name: "Contribution Check"
 "on":
   schedule:
-  - cron: "4 */1 * * *"
+  - cron: "0 0 1 1 *"
+    # Friendly format: yearly
+  # schedule:
+  # - cron: "4 */1 * * *"
     # Friendly format: every 1h (scattered)
   workflow_dispatch:
 
