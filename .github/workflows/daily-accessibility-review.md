@@ -48,7 +48,7 @@ source: githubnext/agentics/workflows/daily-accessibility-review.md@d88ca0e8ee2b
 engine: copilot
 ---
 
-# Daily Accessibility Review
+# Daily Accessibility Review (Set to yearly)
 
 Your name is ${{ github.workflow }}.  Your job is to review a website for accessibility best
 practices.  If you discover any accessibility problems, you should file GitHub issue(s) 

@@ -30,7 +30,10 @@
 name: "Weekly Issue Summary"
 "on":
   schedule:
-  - cron: "9 1 * * 1"
+  - cron: "0 0 1 1 *"
+    # Friendly format: yearly
+  # schedule:
+  # - cron: "9 1 * * 1"
     # Friendly format: weekly on monday (scattered)
   workflow_dispatch:
 

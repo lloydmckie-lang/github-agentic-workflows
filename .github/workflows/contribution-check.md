@@ -39,7 +39,7 @@ source: githubnext/agentics/workflows/contribution-check.md@d88ca0e8ee2b080fcba4
 engine: copilot
 ---
 
-## Target Repository
+## Target Repository (Set to yearly)
 
 The target repository is `${{ env.TARGET_REPOSITORY }}`. All PR fetching and subagent dispatch use this value.
 
